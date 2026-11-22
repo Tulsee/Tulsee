@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">What evidence gating changed in SupportIQ</title>
+<desc id="desc">Dumbbell chart comparing an always-answer baseline with evidence-gated answering on 29 held-out questions. Answered when it should not have: 8 of 13 versus 0 of 13. Behaviour matched the label: 72 percent (95 percent CI 54 to 85) versus 93 percent (78 to 98). Answerable questions answered correctly: 16 of 16 versus 15 of 16.</desc>
+<style>
+  .title { font: 600 26px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #f0efec; }
+  .subtitle { font: 400 16px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #c3c2b7; }
+  .legend { font: 500 16px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #c3c2b7; }
+  .rlab { font: 600 18px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #f0efec; }
+  .rsub { font: 400 15px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #898781; }
+  .tick { font: 400 14px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #898781; font-variant-numeric: tabular-nums; }
+  .val { font: 500 16px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #c3c2b7; }
+  .valm { font: 700 16px system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; fill: #f0efec; }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="439" rx="16" fill="#0d1117" stroke="rgba(255,255,255,0.10)"/>
+<text x="40" y="56" class="title">What evidence gating changed in SupportIQ</text>
+<text x="40" y="86" class="subtitle">29 held-out questions from a small synthetic benchmark · whiskers show 95% confidence intervals where reported</text>
+<circle cx="488" cy="124" r="7" fill="#1c5cab"/>
+<text x="504" y="130" class="legend">Always answer (baseline)</text>
+<circle cx="748" cy="124" r="7" fill="#6da7ec"/>
+<text x="764" y="130" class="legend">Evidence-gated</text>
+<line x1="480.0" y1="154" x2="480.0" y2="394" stroke="#2c2c2a" stroke-width="1"/>
+<text x="480.0" y="420" class="tick" text-anchor="middle">0%</text>
+<line x1="642.5" y1="154" x2="642.5" y2="394" stroke="#2c2c2a" stroke-width="1"/>
+<text x="642.5" y="420" class="tick" text-anchor="middle">25%</text>
+<line x1="805.0" y1="154" x2="805.0" y2="394" stroke="#2c2c2a" stroke-width="1"/>
+<text x="805.0" y="420" class="tick" text-anchor="middle">50%</text>
+<line x1="967.5" y1="154" x2="967.5" y2="394" stroke="#2c2c2a" stroke-width="1"/>
+<text x="967.5" y="420" class="tick" text-anchor="middle">75%</text>
+<line x1="1130.0" y1="154" x2="1130.0" y2="394" stroke="#2c2c2a" stroke-width="1"/>
+<text x="1130.0" y="420" class="tick" text-anchor="middle">100%</text>
+<text x="40" y="184" class="rlab">Answered when it should not have</text>
+<text x="40" y="208" class="rsub">of 13 that needed another action · lower is better</text>
+<line x1="880.0" y1="188" x2="480.0" y2="188" stroke="#898781" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+<circle cx="880.0" cy="188" r="7" fill="#1c5cab" stroke="#0d1117" stroke-width="2"/>
+<circle cx="480.0" cy="188" r="7" fill="#6da7ec" stroke="#0d1117" stroke-width="2"/>
+<text x="880.0" y="166" class="val" text-anchor="middle">8 of 13</text>
+<text x="474.0" y="224" class="valm" text-anchor="start">0 of 13</text>
+<text x="40" y="270" class="rlab">Behaviour matched the label</text>
+<text x="40" y="294" class="rsub">all 29 held-out questions · higher is better</text>
+<line x1="831.0" y1="264" x2="1032.5" y2="264" stroke="#1c5cab" stroke-width="1.5"/>
+<line x1="831.0" y1="260" x2="831.0" y2="268" stroke="#1c5cab" stroke-width="1.5"/>
+<line x1="1032.5" y1="260" x2="1032.5" y2="268" stroke="#1c5cab" stroke-width="1.5"/>
+<line x1="987.0" y1="284" x2="1117.0" y2="284" stroke="#6da7ec" stroke-width="1.5"/>
+<line x1="987.0" y1="280" x2="987.0" y2="288" stroke="#6da7ec" stroke-width="1.5"/>
+<line x1="1117.0" y1="280" x2="1117.0" y2="288" stroke="#6da7ec" stroke-width="1.5"/>
+<line x1="948.0" y1="274" x2="1084.5" y2="274" stroke="#898781" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+<circle cx="948.0" cy="274" r="7" fill="#1c5cab" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1084.5" cy="274" r="7" fill="#6da7ec" stroke="#0d1117" stroke-width="2"/>
+<text x="948.0" y="252" class="val" text-anchor="middle">72%</text>
+<text x="1084.5" y="310" class="valm" text-anchor="middle">93%</text>
+<text x="40" y="356" class="rlab">Answerable questions answered correctly</text>
+<text x="40" y="380" class="rsub">16 answerable questions · higher is better</text>
+<line x1="1130.0" y1="360" x2="1089.4" y2="360" stroke="#898781" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1130.0" cy="360" r="7" fill="#1c5cab" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1089.4" cy="360" r="7" fill="#6da7ec" stroke="#0d1117" stroke-width="2"/>
+<text x="1136.0" y="338" class="val" text-anchor="end">16 of 16</text>
+<text x="1089.4" y="396" class="valm" text-anchor="middle">15 of 16</text>
+</svg>
