@@ -91,20 +91,20 @@ An open-source help desk whose assistant checks its evidence before it replies: 
 
 ## Preprints
 
-- **Sensitivity-prioritized comparative evaluation of VGG16 and ResNet50 deep learning architectures for early-stage Alzheimer's disease detection from brain MRI**<br>
-  <sub>**S. Ghimire**, B. Thapa Magar, N. Adhikari, S. Neupane, S. Maharjan · Zenodo · 2026 · [doi:10.5281/zenodo.20199049](https://doi.org/10.5281/zenodo.20199049)</sub>
-- **When reward is not grammar: A reward-action validity audit of deep reinforcement learning for English inflection**<br>
-  <sub>N. Adhikari, **S. Ghimire**, S. Neupane · Research Square · 2026 · [doi:10.21203/rs.3.rs-10755274/v1](https://doi.org/10.21203/rs.3.rs-10755274/v1)</sub>
-- **Transparent context-aware retrieval for mental health and substance use service navigation**<br>
-  <sub>N. Adhikari, **S. Ghimire** · Research Square · 2026 · [doi:10.21203/rs.3.rs-10862112/v1](https://doi.org/10.21203/rs.3.rs-10862112/v1)</sub>
-- **Demand forecasting for internet bandwidth using machine learning to enhance resource management in Nepal**<br>
-  <sub>S. Maharjan, **S. Ghimire** · Research Square · 2026 · [doi:10.21203/rs.3.rs-10747280/v1](https://doi.org/10.21203/rs.3.rs-10747280/v1)</sub>
+- **Sensitivity-prioritized comparative evaluation of VGG16 and ResNet50 deep learning architectures for early-stage Alzheimer's disease detection from brain MRI**
+  <sub>, B. Thapa Magar, N. Adhikari, S. Neupane, S. Maharjan · Zenodo · 2026 · </sub>
+- **When reward is not grammar: A reward-action validity audit of deep reinforcement learning for English inflection**
+  <sub>N. Adhikari, , S. Neupane · Research Square · 2026 · </sub>
+- **Transparent context-aware retrieval for mental health and substance use service navigation**
+  <sub>N. Adhikari,  · Research Square · 2026 · </sub>
+- **Demand forecasting for internet bandwidth using machine learning to enhance resource management in Nepal**
+  <sub>S. Maharjan,  · Research Square · 2026 · </sub>
 
 ## Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,matlab,fastapi,postgres,redis,mongodb,docker,githubactions,linux,aws,gcp,ts,nextjs&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,matlab,fastapi,postgres,redis,mongodb,docker,githubactions,linux,aws,gcp,ts,nextjs&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Csklearn%2Cmatlab%2Cfastapi%2Cpostgres%2Credis%2Cmongodb%2Cdocker%2Cgithubactions%2Clinux%2Caws%2Cgcp%2Cts%2Cnextjs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Csklearn%2Cmatlab%2Cfastapi%2Cpostgres%2Credis%2Cmongodb%2Cdocker%2Cgithubactions%2Clinux%2Caws%2Cgcp%2Cts%2Cnextjs&theme=light">
   <img alt="Python, PyTorch, scikit-learn, MATLAB, FastAPI, PostgreSQL, Redis, MongoDB, Docker, GitHub Actions, Linux, AWS, Google Cloud, TypeScript, Next.js" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,matlab,fastapi,postgres,redis,mongodb,docker,githubactions,linux,aws,gcp,ts,nextjs&theme=light">
 </picture>
 
